@@ -1,3 +1,5 @@
+# Summary: This module contains the user interface and logic for a console-based version of the stock manager program.
+
 from datetime import datetime
 from stock_class import Stock, DailyData
 from utilities import clear_screen, display_stock_chart
